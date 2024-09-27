@@ -27,7 +27,7 @@ This project focuses on developing a robust 3D-coloured barcode system that enha
 
   1. Clone the Repository:
      ```bash
-     git clone https://github.com/yourusername/3D-Colour-Barcode.git
+     git clone https://github.com/Puteraharis24/HighCapacity-3D-Barcode.git
 
   2. Encoding process:
 
